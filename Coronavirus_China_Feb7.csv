@@ -1,0 +1,35 @@
+Province,Diagnosed,Death,Healed
+Hubei,22112,618,867
+Guangdong,1034,1,88
+Zhejiang,1006,,123
+Henan,914,3,86
+Hunan,772,,112
+Anhui,665,,47
+Jiangxi,661,,45
+Chongqing,415,2,31
+Jiangsu,408,,43
+Shandong,386,,37
+Sichuan,344,1,42
+Beijing,297,1,33
+Shanghai,277,1,30
+Heilongjiang,277,3,12
+Fujian,224,,20
+Shaanxi,184,,17
+Guangxi,172,,17
+Hebei,172,1,22
+Yunnan,136,,13
+Hainan,117,2,10
+Liaoning,99,,7
+Shanxi,96,,15
+Guizhou,81,1,6
+Tianjin,81,1,2
+Gansu,67,,9
+Jilin,65,1,4
+Inner Mongolia,50,,5
+Ningxia,43,,5
+Xinjiang,39,,
+Hong Kong,25,1,
+Qinghai,18,,3
+Taiwan,16,,1
+Macao,10,,1
+Tibet,1,,
