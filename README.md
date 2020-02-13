@@ -11,3 +11,6 @@ Or simply download the html file of Visualization to see how they interact
 <div>
     <a href="https://plot.ly/~dale.zys/26" target="_blank" title="Global Coronovirus Outbreak Map Preview" style="display: block; text-align: center;"><img src="https://plot.ly/~dale.zys/26.png" alt="Global Coronovirus Outbreak Map Preview"  onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
+
+## 2020.02.12 Update:
+Since [DingXiangYuan](http://ncov.dxy.cn/) change the format they present the data, the Get Data file is updated.
